@@ -1,0 +1,66 @@
+{
+  "FilePath": "d:\\VsProject\\study1\\BlazorLoginTest\\BlazorLoginTest.csproj",
+  "Configuration": {
+    "ConfigurationName": "Default",
+    "LanguageVersion": "3.0",
+    "Extensions": []
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 800
+  },
+  "RootNamespace": "BlazorLoginTest",
+  "Documents": [
+    {
+      "FilePath": "d:\\VsProject\\study1\\BlazorLoginTest\\Shared\\SurveyPrompt.razor",
+      "TargetPath": "Shared\\SurveyPrompt.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\VsProject\\study1\\BlazorLoginTest\\Shared\\LoginLayout.razor",
+      "TargetPath": "Shared\\LoginLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\VsProject\\study1\\BlazorLoginTest\\Shared\\NavMenu.razor",
+      "TargetPath": "Shared\\NavMenu.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\VsProject\\study1\\BlazorLoginTest\\Pages\\Login.razor",
+      "TargetPath": "Pages\\Login.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\VsProject\\study1\\BlazorLoginTest\\Pages\\FetchData.razor",
+      "TargetPath": "Pages\\FetchData.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\VsProject\\study1\\BlazorLoginTest\\App.razor",
+      "TargetPath": "App.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\VsProject\\study1\\BlazorLoginTest\\Pages\\Index.razor",
+      "TargetPath": "Pages\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\VsProject\\study1\\BlazorLoginTest\\_Imports.razor",
+      "TargetPath": "_Imports.razor",
+      "FileKind": "componentImport"
+    },
+    {
+      "FilePath": "d:\\VsProject\\study1\\BlazorLoginTest\\Shared\\MainLayout.razor",
+      "TargetPath": "Shared\\MainLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\VsProject\\study1\\BlazorLoginTest\\Pages\\Counter.razor",
+      "TargetPath": "Pages\\Counter.razor",
+      "FileKind": "component"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}
